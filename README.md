@@ -18,6 +18,7 @@
   <img alt="Terminal" width="30px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
   <img alt="Terminal" width="30px" src="./img/terminal-light.svg#gh-light-mode-only" />
   <img alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
   <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
   <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <p align="center">
