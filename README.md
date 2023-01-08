@@ -48,9 +48,6 @@
 <br>
 <div width="100%" align="center">
   <img alt="LeetCode" align="left" width="400px" src="https://leetcard.jacoblin.cool/NoonSense?theme=dark" style="padding-left: 1000px;" />
-  <br>
-  <br>
-  <img alt="CodeWars" align="right" src="https://www.codewars.com/users/NoonSense/badges/large" />
 </div>
 
 
