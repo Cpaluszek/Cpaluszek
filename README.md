@@ -3,7 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+🌱I'm a student developper studying in **42Lyon**.
+<p>
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld2zy7vw00210fl89erbyub6/stats?cursusId=21&coalitionId=305" alt="cpalusze's 42 stats" /></a>
+</p>
+<br>
+<h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
 <br>
 <p align="center">
   <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -21,12 +26,12 @@
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
   <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
   <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  
 <p align="center">
-<br>
 <hr>
 
 <h3 align="center">⚡ Stats ⚡</h3>
-<br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -36,9 +41,8 @@
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Cpaluszek&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 </p>
-<hr>
 
 <br>
 <div width="100%" align="center">
