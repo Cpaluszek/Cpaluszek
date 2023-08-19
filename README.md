@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-🌱I'm a student developper studying in **42Lyon**.
+🌱I'm a student developper in **42Lyon**.
 <p>
  <a href=""><img src="https://badge42.vercel.app/api/v2/cld2zy7vw00210fl89erbyub6/stats?cursusId=21&coalitionId=305" alt="cpalusze's 42 stats" /></a>
 </p>
@@ -27,7 +27,7 @@
   <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
 <p align="center">
-<hr>
+<!-- <hr>
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
@@ -41,7 +41,7 @@
     </a>
   </div>
   <br><br><br><br><br><br>
-</p>
+</p> -->
 
 <br>
 <!-- <div width="100%" align="center">
