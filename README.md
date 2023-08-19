@@ -8,7 +8,7 @@
  <a href=""><img src="https://badge42.vercel.app/api/v2/cld2zy7vw00210fl89erbyub6/stats?cursusId=21&coalitionId=305" alt="cpalusze's 42 stats" /></a>
 </p>
 <br>
-<h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
+<h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 <br>
 <p align="center">
   <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
