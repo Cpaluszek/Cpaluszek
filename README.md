@@ -38,3 +38,5 @@
 <!-- <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cpaluszek&theme=default"/></p> -->
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cpaluszek&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpaluszek&theme=default"/></p>
+
+![](https://komarev.com/ghpvc/?username=Cpaluszek&style=for-the-badge)
