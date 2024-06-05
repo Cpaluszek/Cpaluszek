@@ -42,6 +42,6 @@
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cpaluszek&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cpaluszek&theme=default"/></p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Cpaluszek&style=for-the-badge" ait="profile-views">
-</p>
+</p>-->
